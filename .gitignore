@@ -1,0 +1,14 @@
+# Django settings and environment
+.env
+settings.py
+venv/
+env/
+
+# IDE-specific files
+.vscode/
+
+# Database files
+
+# Static and media files
+staticfiles/
+media/
