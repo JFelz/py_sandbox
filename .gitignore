@@ -1,4 +1,5 @@
 # Django settings and environment
+__pycache__/
 .env
 settings.py
 venv/
